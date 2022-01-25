@@ -1,0 +1,6 @@
+src/bin/
+src/obj/
+src/log.txt
+src/StructStack.cbp
+src/StructStack.depend
+src/StructStack.layout
